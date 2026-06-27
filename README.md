@@ -14,9 +14,12 @@ How did you increase layers of security? In the future, what would you use to as
 I increased security by making sure the program ran using HTTPS rather than HTTP, and used SHA-256 to create a unique fingerprint to ensure thet the data hasn't been tampered with. In the future, I will continue to use what I have learned in this class such as using dependency checks, refering to the OWASP guidelines, ensuring I am using good practice and current techniques when writing my code, and updating often.
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-
+I made certain that the application was functional by running the program to check that there were no bugs or crash reports. To ensure the application was secure, I implemented the keytool certificate so that the data remained safe. After refactoring the code, I re-ran the application to confirm I didnt add any new vulnerabilities.
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-
+In the future, it will be helpful to use current coding practices and to be able toidentify issues, evaluate and fix as needed. Using tools such as OWASP dependency check, and Java Keytool to generate secure certificates can help ensure that my code is secure.
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+I would show future employers my completed Practices for Secure Software Report, along with the completed code. 
+
+ 
